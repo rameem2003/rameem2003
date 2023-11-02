@@ -19,6 +19,18 @@
 
 - ⚡ Fun fact **Just create an HTML file then you will be a NASA hacker**
 
+## My Recent Works
+
+| Topic           | Description                                     | Technology      | Live Link                                                                 |
+| --------------- | ----------------------------------------------- | --------------- | ------------------------------------------------------------------------- |
+| Wow Chat        | A Chatting Application For Web                  | React, Firebase | Coming Soon                                                               |
+| Wow Chat Intro  | Wow Chat Application Introductory Website       | HTML, CSS, BS4  | [Link](https://getstarted-wowchat.netlify.app/)                           |
+| Our Site        | My College Static Website                       | React, BS5      | [Link](https://rameem2003.github.io/oursite/)                             |
+| Link Shortener  | A Short Link Genarator Web Application          | React, AXIOS    | [Link](https://react-link-shortener.netlify.app/)                         |
+| My Zakat        | A Zakat Calculation Android App                 | XML, JAVA       | [Play Store](https://play.google.com/store/apps/details?id=com.rol.zakat) |
+| IOT Project     | Android Control Surveillance Robot              | Arduino, C++    | [Docs](https://github.com/rameem2003/Republic-of-Legends)                 |
+| Firmware Design | Firmware for Android Control Surveillance Robot | C++             | [Docs](https://github.com/rameem2003/Republic-of-Legends)                 |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmood-hassan-rameem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmood-hassan-rameem/" height="30" width="40" /></a>
