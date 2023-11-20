@@ -24,7 +24,7 @@
 | Topic           | Description                                     | Technology         | Live Link                                                                 |
 | --------------- | ----------------------------------------------- | ------------------ | ------------------------------------------------------------------------- |
 | Wow Chat        | A Chatting Application For Web                  | React, Firebase    | Coming Soon                                                               |
-| Wow Chat Intro  | Wow Chat Application Introductory Website       | HTML, CSS, BS4     | [Link](https://getstarted-wowchat.netlify.app/)                           |
+| Wow Chat Intro  | Wow Chat Application Introductory Website       | React, BS5, AOS    | [Link](https://getstarted-wowchat.netlify.app/)                           |
 | Our Site        | My College Static Website                       | HTML, CSS, JS, BS4 | [Link](https://rameem2003.github.io/oursite/)                             |
 | Link Shortener  | A Short Link Genarator Web Application          | React, AXIOS       | [Link](https://react-link-shortener.netlify.app/)                         |
 | My Zakat        | A Zakat Calculation Android App                 | XML, JAVA          | [Play Store](https://play.google.com/store/apps/details?id=com.rol.zakat) |
