@@ -23,7 +23,7 @@
 
 | Topic           | Description                                     | Technology         | Live Link                                                                 |
 | --------------- | ----------------------------------------------- | ------------------ | ------------------------------------------------------------------------- |
-| Wow Chat        | A Chatting Application For Web                  | React, Firebase    | Coming Soon                                                               |
+| Wow Chat        | A Chatting Application For Web                  | React, Firebase    | [Link](https://wowchat.netlify.app/)                                      |
 | Wow Chat Intro  | Wow Chat Application Introductory Website       | React, BS5, AOS    | [Link](https://getstarted-wowchat.netlify.app/)                           |
 | Our Site        | My College Static Website                       | HTML, CSS, JS, BS4 | [Link](https://rameem2003.github.io/oursite/)                             |
 | Link Shortener  | A Short Link Genarator Web Application          | React, AXIOS       | [Link](https://react-link-shortener.netlify.app/)                         |
