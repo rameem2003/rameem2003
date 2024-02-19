@@ -23,7 +23,7 @@
 
 | Topic           | Description                                     | Technology         | Live Link                                                                 |
 | --------------- | ----------------------------------------------- | ------------------ | ------------------------------------------------------------------------- |
-| Daily Task      | A Todo Application With User Authentication     | React, Tailwind CSS, Firebase    | Coming Soon                                                 |
+| Daily Task      | A Todo Application With User Authentication     | React, Tailwind CSS, Firebase    | [Link](https://savedailytask.netlify.app/)                  |
 | Wow Chat        | A Chatting Application For Web                  | React, Firebase    | [Link](https://wowchat.netlify.app/)                                      |
 | Wow Chat Intro  | Wow Chat Application Introductory Website       | React, BS5, AOS    | [Link](https://getstarted-wowchat.netlify.app/)                           |
 | Our Site        | My College Static Website                       | HTML, CSS, JS, BS4 | [Link](https://rameem2003.github.io/oursite/)                             |
