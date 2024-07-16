@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmood Hassan Rameem</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameem2003&label=Profile%20views&color=0e75b6&style=flat" alt="rameem2003" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, React, Bootstrap, Figma**
+- 🌱 I’m currently learning **React, Tailwind CSS, Node JS, Express JS, Mongo DB, Javascript, Bootstrap, Figma**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rameem2003](https://github.com/rameem2003)
 
