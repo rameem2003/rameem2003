@@ -25,7 +25,7 @@
 
 | Topic           | Description                                     | Technology         | Live Link                                                                 |
 | --------------- | ----------------------------------------------- | ------------------ | ------------------------------------------------------------------------- |
-| SM Corporation  | A Ful Stack E-commerce Website with Admin Panel | React, Express JS, Node JS, Mongo DB, Redux, Tailwind CSS, Firebase Storage | [Link](https://www.mssmcorporation.com/)                  |
+| SM Corporation  | A Full Stack E-commerce Website with Admin Panel | React, Express JS, Node JS, Mongo DB, Redux, Tailwind CSS, Firebase Storage | [Link](https://www.mssmcorporation.com/)                  |
 | Daily Task      | A Todo Application With User Authentication     | React, Tailwind CSS, Firebase    | [Link](https://savedailytask.netlify.app/)                  |
 | Wow Chat        | A Chatting Application For Web                  | React, Firebase    | [Link](https://wowchat.netlify.app/)                                      |
 | Wow Chat Intro  | Wow Chat Application Introductory Website       | React, BS5, AOS    | [Link](https://getstarted-wowchat.netlify.app/)                           |
