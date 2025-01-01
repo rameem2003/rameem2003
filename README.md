@@ -25,6 +25,7 @@
 
 | Topic           | Description                                     | Technology         | Live Link                                                                 |
 | --------------- | ----------------------------------------------- | ------------------ | ------------------------------------------------------------------------- |
+| Event Management Company  | A Full Stack Event Management Company Website with Admin Panel | React, Express JS, Node JS, Mongo DB, Redux, Tailwind CSS | [Link](https://www.noyonpuspobelievent.com/)                  |
 | SM Corporation  | A Full Stack E-commerce Website with Admin Panel | React, Express JS, Node JS, Mongo DB, Redux, Tailwind CSS, Firebase Storage | [Link](https://www.mssmcorporation.com/)                  |
 | Daily Task      | A Todo Application With User Authentication     | React, Tailwind CSS, Firebase    | [Link](https://savedailytask.netlify.app/)                  |
 | Wow Chat        | A Chatting Application For Web                  | React, Firebase    | [Link](https://wowchat.netlify.app/)                                      |
