@@ -1,4 +1,4 @@
-![my_banner](https://media.licdn.com/dms/image/v2/D5616AQEf2MaqPMRGaw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721142192983?e=1738800000&v=beta&t=G9QSRME7RZZjqVjI9CKjZ_JH47_6GthU5qnt-nP15zA)
+![my_banner](./assets/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Mahmood Hassan Rameem</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
@@ -23,18 +23,18 @@
 
 ## My Recent Works
 
-| Topic           | Description                                     | Technology         | Live Link                                                                 |
-| --------------- | ----------------------------------------------- | ------------------ | ------------------------------------------------------------------------- |
-| Event Management Company  | A Full Stack Event Management Company Website with Admin Panel | React, Express JS, Node JS, Mongo DB, Redux, Tailwind CSS | [Link](https://www.noyonpuspobelievent.com/)                  |
-| SM Corporation  | A Full Stack E-commerce Website with Admin Panel | React, Express JS, Node JS, Mongo DB, Redux, Tailwind CSS, Firebase Storage | [Link](https://www.mssmcorporation.com/)                  |
-| Daily Task      | A Todo Application With User Authentication     | React, Tailwind CSS, Firebase    | [Link](https://savedailytask.netlify.app/)                  |
-| Wow Chat        | A Chatting Application For Web                  | React, Firebase    | [Link](https://wowchat.netlify.app/)                                      |
-| Wow Chat Intro  | Wow Chat Application Introductory Website       | React, BS5, AOS    | [Link](https://getstarted-wowchat.netlify.app/)                           |
-| Our Site        | My College Static Website                       | HTML, CSS, JS, BS4 | [Link](https://rameem2003.github.io/oursite/)                             |
-| Link Shortener  | A Short Link Generator Web Application          | React, AXIOS       | [Link](https://react-link-shortener.netlify.app/)                         |
-| My Zakat        | A Zakat Calculation Android App                 | XML, JAVA          | [Play Store](https://play.google.com/store/apps/details?id=com.rol.zakat) |
-| IOT Project     | Android Control Surveillance Robot              | Arduino, C++       | [Docs](https://github.com/rameem2003/Republic-of-Legends)                 |
-| Firmware Design | Firmware for Android Control Surveillance Robot | C++                | [Docs](https://github.com/rameem2003/Republic-of-Legends)                 |
+| Topic                    | Description                                                    | Technology                                                                  | Live Link                                                                 |
+| ------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Event Management Company | A Full Stack Event Management Company Website with Admin Panel | React, Express JS, Node JS, Mongo DB, Redux, Tailwind CSS                   | [Link](https://www.noyonpuspobelievent.com/)                              |
+| SM Corporation           | A Full Stack E-commerce Website with Admin Panel               | React, Express JS, Node JS, Mongo DB, Redux, Tailwind CSS, Firebase Storage | [Link](https://www.mssmcorporation.com/)                                  |
+| Daily Task               | A Todo Application With User Authentication                    | React, Tailwind CSS, Firebase                                               | [Link](https://savedailytask.netlify.app/)                                |
+| Wow Chat                 | A Chatting Application For Web                                 | React, Firebase                                                             | [Link](https://wowchat.netlify.app/)                                      |
+| Wow Chat Intro           | Wow Chat Application Introductory Website                      | React, BS5, AOS                                                             | [Link](https://getstarted-wowchat.netlify.app/)                           |
+| Our Site                 | My College Static Website                                      | HTML, CSS, JS, BS4                                                          | [Link](https://rameem2003.github.io/oursite/)                             |
+| Link Shortener           | A Short Link Generator Web Application                         | React, AXIOS                                                                | [Link](https://react-link-shortener.netlify.app/)                         |
+| My Zakat                 | A Zakat Calculation Android App                                | XML, JAVA                                                                   | [Play Store](https://play.google.com/store/apps/details?id=com.rol.zakat) |
+| IOT Project              | Android Control Surveillance Robot                             | Arduino, C++                                                                | [Docs](https://github.com/rameem2003/Republic-of-Legends)                 |
+| Firmware Design          | Firmware for Android Control Surveillance Robot                | C++                                                                         | [Docs](https://github.com/rameem2003/Republic-of-Legends)                 |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
