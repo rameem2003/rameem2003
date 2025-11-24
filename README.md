@@ -25,7 +25,7 @@
 
 | Topic                    | Description                                                    | Technology                                                                  | Live Link                                                                 |
 | ------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Shari Mohol  | Shari Mohol is am Ecommerce Ladies wear shoping website | Next JS, React JS, ZEN UI, Shad CN,  Express JS, Node JS, Mongo DB, Redux, ZOD, Bcrypt, Multer, Brevo mail, SSL Commerz Payment | [Coming Soon]() |
+| Shari Mohol  | Shari Mohol is an Ecommerce Ladies wear shoping website | Next JS, React JS, ZEN UI, Shad CN,  Express JS, Node JS, Mongo DB, Redux, ZOD, Bcrypt, Multer, Brevo mail, SSL Commerz Payment | [Coming Soon]() |
 | Hello NUBian Mobile App  | "Hello NUBian" is a student app on the Google Play Store, designed for providing notices, assignment updates, exam dates, and section information to students | React Native, Express JS, Node JS, Mongo DB, Redux, Native Wind | [Link](https://play.google.com/store/apps/details?id=com.rol.nubian&hl=en) |
 | Event Management Company | A Full Stack Event Management Company Website with Admin Panel | React, Express JS, Node JS, Mongo DB, Redux, Tailwind CSS                   | [Link](https://www.noyonpuspobelievent.com/)                              |
 | SM Corporation           | A Full Stack E-commerce Website with Admin Panel               | React, Express JS, Node JS, Mongo DB, Redux, Tailwind CSS, Firebase Storage | [Link](https://www.mssmcorporation.com/)                                  |
