@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React, Tailwind CSS, Node JS, Express JS, Mongo DB, Javascript, Bootstrap, Figma**
+- 🌱 I’m currently learning **Next JS, React Native, React, Tailwind CSS, Shad CN, Node JS, Express JS, Mongo DB, Javascript, Bootstrap, Figma**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rameem2003](https://github.com/rameem2003)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **rameem2019@gmail.com**
 
@@ -25,6 +25,7 @@
 
 | Topic                    | Description                                                    | Technology                                                                  | Live Link                                                                 |
 | ------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Shari Mohol  | Shari Mohol is am Ecommerce Ladies wear shoping website | Next JS, React JS, ZEN UI, Shad CN,  Express JS, Node JS, Mongo DB, Redux, ZOD, Bcrypt, Multer, Brevo mail, SSL Commerz Payment | [Coming Soon]() |
 | Hello NUBian Mobile App  | "Hello NUBian" is a student app on the Google Play Store, designed for providing notices, assignment updates, exam dates, and section information to students | React Native, Express JS, Node JS, Mongo DB, Redux, Native Wind | [Link](https://play.google.com/store/apps/details?id=com.rol.nubian&hl=en) |
 | Event Management Company | A Full Stack Event Management Company Website with Admin Panel | React, Express JS, Node JS, Mongo DB, Redux, Tailwind CSS                   | [Link](https://www.noyonpuspobelievent.com/)                              |
 | SM Corporation           | A Full Stack E-commerce Website with Admin Panel               | React, Express JS, Node JS, Mongo DB, Redux, Tailwind CSS, Firebase Storage | [Link](https://www.mssmcorporation.com/)                                  |
