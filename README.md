@@ -25,6 +25,7 @@
 
 | Topic                    | Description                                                    | Technology                                                                  | Live Link                                                                 |
 | ------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Golpo Chat (BETA)  | A minimal chatting application for mobile platform (Android) | Expo React Native,  Express JS, Node JS, Mongo DB, ZOD, Bcrypt, Multer, Node Mailer | [Link](https://golpochat.vercel.app/)  |
 | Velocity Tech Academy  |  An ambitious learning-management-system (LMS) platform | Next JS,  Shad CN,  Express JS, Node JS, Mongo DB, Redux, ZOD, Bcrypt, Multer, Node Mailer, SSL Commerz Payment | [Link](https://www.velocitytechacademy.com/)  |
 | Shari Mohol  | Shari Mohol is an Ecommerce Ladies wear shoping website | Next JS, React JS, ZEN UI, Shad CN,  Express JS, Node JS, Mongo DB, Redux, ZOD, Bcrypt, Multer, Brevo mail, SSL Commerz Payment | [Coming Soon]() |
 | Hello NUBian Mobile App  | "Hello NUBian" is a student app on the Google Play Store, designed for providing notices, assignment updates, exam dates, and section information to students | React Native, Express JS, Node JS, Mongo DB, Redux, Native Wind | [Link](https://play.google.com/store/apps/details?id=com.rol.nubian&hl=en) |
