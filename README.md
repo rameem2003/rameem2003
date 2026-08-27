@@ -1,57 +1,296 @@
 ![my_banner](./assets/banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Mahmood Hassan Rameem</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+<!-- ========================================================= -->
+<!--                       HEADER                              -->
+<!-- ========================================================= -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rameem2003&label=Profile%20views&color=0e75b6&style=flat" alt="rameem2003" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:36BCF7&height=220&section=header&text=Mahmood%20Hassan%20Rameem&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20React%20Native&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rameem2003" alt="rameem2003" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=820&lines=Building+production-grade+APIs+%26+real-time+systems;MERN+%7C+Next.js+%7C+React+Native+%7C+AI%2FLLM;Founder+%40+ROL+Studio+Bangladesh" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br/>
 
-- 🌱 I’m currently learning **Next JS, React Native, React, Tailwind CSS, Shad CN, Node JS, Express JS, Mongo DB, Javascript, Bootstrap, Figma**
+<a href="https://github.com/rameem2003">
+<img src="https://komarev.com/ghpvc/?username=rameem2003&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" />
+</a>
+<a href="https://github.com/rameem2003?tab=followers">
+<img src="https://img.shields.io/github/followers/rameem2003?label=FOLLOWERS&style=for-the-badge&color=181717&logo=github" />
+</a>
+<a href="https://github.com/rameem2003?tab=repositories">
+<img src="https://img.shields.io/badge/249%20Repositories-181717?style=for-the-badge&logo=github" />
+</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rameem2003](https://github.com/rameem2003)
+</div>
 
-- 💬 Ask me about **MERN Stack**
+<br/>
 
-- 📫 How to reach me **rameem2019@gmail.com**
+<!-- ========================================================= -->
+<!--                       INTRO                                -->
+<!-- ========================================================= -->
+<div align="center">
 
-- 📄 Know about my experiences [https://rameem.netlify.app/](https://rameem.netlify.app/)
+### 👨‍💻 Full-Stack Developer from Bangladesh 🇧🇩
 
-- ⚡ Fun fact **Just create an HTML file then you will be a NASA hacker**
+**MERN Stack Developer&nbsp;•&nbsp;Instructor (Web Development)&nbsp;•&nbsp;Founder @ ROL Studio Bangladesh&nbsp;•&nbsp;BSc CSE**
 
-## My Recent Works
+> Building web apps, mobile apps, real-time systems and AI-powered products end to end — from schema to shipped.
 
-| Topic                    | Description                                                    | Technology                                                                  | Live Link                                                                 |
-| ------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Golpo Chat (BETA)  | A minimal chatting application for mobile platform (Android) | Expo React Native,  Express JS, Node JS, Mongo DB, ZOD, Bcrypt, Multer, Node Mailer | [Link](https://golpochat.vercel.app/)  |
-| Velocity Tech Academy  |  An ambitious learning-management-system (LMS) platform | Next JS,  Shad CN,  Express JS, Node JS, Mongo DB, Redux, ZOD, Bcrypt, Multer, Node Mailer, SSL Commerz Payment | [Link](https://www.velocitytechacademy.com/)  |
-| Shari Mohol  | Shari Mohol is an Ecommerce Ladies wear shoping website | Next JS, React JS, ZEN UI, Shad CN,  Express JS, Node JS, Mongo DB, Redux, ZOD, Bcrypt, Multer, Brevo mail, SSL Commerz Payment | [Coming Soon]() |
-| Hello NUBian Mobile App  | "Hello NUBian" is a student app on the Google Play Store, designed for providing notices, assignment updates, exam dates, and section information to students | React Native, Express JS, Node JS, Mongo DB, Redux, Native Wind | [Link](https://play.google.com/store/apps/details?id=com.rol.nubian&hl=en) |
-| Event Management Company | A Full Stack Event Management Company Website with Admin Panel | React, Express JS, Node JS, Mongo DB, Redux, Tailwind CSS                   | [Link](https://www.noyonpuspobelievent.com/)                              |
-| SM Corporation           | A Full Stack E-commerce Website with Admin Panel               | React, Express JS, Node JS, Mongo DB, Redux, Tailwind CSS, Firebase Storage | [Link](https://www.mssmcorporation.com/)                                  |
-| Daily Task               | A Todo Application With User Authentication                    | React, Tailwind CSS, Firebase                                               | [Link](https://savedailytask.netlify.app/)                                |
-| Wow Chat                 | A Chatting Application For Web                                 | React, Firebase                                                             | [Link](https://wowchat.netlify.app/)                                      |
-| Wow Chat Intro           | Wow Chat Application Introductory Website                      | React, BS5, AOS                                                             | [Link](https://getstarted-wowchat.netlify.app/)                           |
-| Our Site                 | My College Static Website                                      | HTML, CSS, JS, BS4                                                          | [Link](https://rameem2003.github.io/oursite/)                             |
-| Link Shortener           | A Short Link Generator Web Application                         | React, AXIOS                                                                | [Link](https://react-link-shortener.netlify.app/)                         |
-| My Zakat                 | A Zakat Calculation Android App                                | XML, JAVA                                                                   | [Play Store](https://play.google.com/store/apps/details?id=com.rol.zakat) |
-| IOT Project              | Android Control Surveillance Robot                             | Arduino, C++                                                                | [Docs](https://github.com/rameem2003/Republic-of-Legends)                 |
-| Firmware Design          | Firmware for Android Control Surveillance Robot                | C++                                                                         | [Docs](https://github.com/rameem2003/Republic-of-Legends)                 |
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmood-hassan-rameem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmood-hassan-rameem/" height="30" width="40" /></a>
-<a href="https://fb.com/mahmood.rameem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmood.rameem" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@we.are.republicoflegends2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@we.are.republicoflegends2022" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## 🧑‍💻 `whoami`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameem2003&show_icons=true&locale=en&layout=compact" alt="rameem2003" /></p>
+```javascript
+const mahmood = {
+  name: "Mahmood Hassan Rameem",
+  username: "rameem2003",
+  location: "Bangladesh 🇧🇩",
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rameem2003&show_icons=true&locale=en" alt="rameem2003" /></p>
+  role: [
+    "Full-Stack Developer",
+    "MERN Stack Developer",
+    "React Native Developer",
+  ],
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameem2003&" alt="rameem2003" /></p>
+  company: "Founder @ ROL Studio Bangladesh",
+
+  currentlyLearning: [
+    "System Design",
+    "TypeScript at scale",
+    "AI / LLM application architecture",
+  ],
+
+  funFact: "Just create an HTML file then you will be a NASA hacker 🚀",
+};
+```
+
+---
+
+## ⚡ What I Do
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🌐
+
+### Web Apps
+
+React
+Next.js
+Tailwind
+ShadCN
+
+</td>
+<td align="center" width="25%">
+
+### ⚙️
+
+### Backend
+
+Node.js
+Express.js
+REST APIs
+Socket.IO
+
+</td>
+<td align="center" width="25%">
+
+### 📱
+
+### Mobile
+
+React Native
+Expo
+Android
+Firebase
+
+</td>
+<td align="center" width="25%">
+
+### 🤖
+
+### AI / LLM
+
+Ollama
+RAG Pipelines
+Stable Diffusion
+Prompt Engineering
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite" />
+
+<br/><br/>
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres,redis,prisma,firebase" />
+
+<br/><br/>
+
+**Mobile & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vscode,java,git,github,docker,linux,aws,arduino,vercel" />
+
+</div>
+
+<!-- ## 🧪 Currently Building
+
+<div align="center">
+
+| Project                       | What it is                                                                                | Stack                                                   |
+| ----------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 🤖 **DevCraft AI**            | AI-powered app with local LLM inference, image generation, and RAG-style web search       | `Next.js 16` `Ollama` `Stable Diffusion` `SSE` `Tavily` |
+| 🔐 **User Management System** | Production-grade auth scaffold — refresh-token rotation, OTP, KYC triggers, audit logging | `Express` `MongoDB` `Redis` `BullMQ` `JWT`              |
+| 💬 **Real-Time Chat Backend** | Expo chat app backend — typing indicators, read receipts, group chat, push notifications  | `React Native` `Socket.IO` `Expo`                       |
+
+</div> -->
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 💬 Golpo Chat
+
+**Real-time Android messaging application**
+
+<a href="https://golpochat.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-36BCF7?style=for-the-badge" /></a>
+<a href="https://github.com/rameem2003/golpo-chat"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" /></a>
+
+<br/><br/>
+
+`React Native` `Expo` `TypeScript` `Node.js` `Express` `MongoDB` `Socket.IO`
+
+---
+
+### 🛍️ Shari Mohol
+
+**E-commerce platform for ladies' fashion**
+
+<a href="https://github.com/rameem2003/shari-mohol-ecommerce"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" /></a>
+
+<br/>
+
+`Next.js` `React` `Express.js` `MongoDB` `Redux` `ShadCN`
+
+---
+
+### 🎓 Velocity Tech Academy
+
+**Learning Management System**
+
+<a href="https://www.velocitytechacademy.com/"><img src="https://img.shields.io/badge/🌐%20Live%20Website-36BCF7?style=for-the-badge" /></a>
+
+<br/>
+
+`Next.js` `ShadCN` `Express.js` `Node.js` `MongoDB` `Redux` `SSLCommerz`
+
+---
+
+### 🎓 Hello NUBian
+
+**Student-focused Android application**
+
+<a href="https://play.google.com/store/apps/details?id=com.rol.nubian&hl=en"><img src="https://img.shields.io/badge/▶%20Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+
+<br/>
+
+Notices • Assignments • Exam Dates • Sections
+
+<br/>
+
+`React Native` `Express.js` `Node.js` `MongoDB` `Redux` `NativeWind`
+
+---
+
+### 🏢 Noyon Puspo Beli
+
+**Full-stack event management platform**
+
+<a href="https://www.noyonpuspobelievent.com/"><img src="https://img.shields.io/badge/🌐%20Live%20Website-36BCF7?style=for-the-badge" /></a>
+<a href="https://github.com/rameem2003/noyon-puspo-beli-event-managment"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github" /></a>
+
+<br/>
+
+`React` `Express.js` `Node.js` `MongoDB` `Redux` `Tailwind CSS`
+
+---
+
+### 🏢 ROL Studio Bangladesh
+
+**Official website of ROL Studio Bangladesh**
+
+<a href="https://github.com/rameem2003/rol-studio-bangladesh"><img src="https://img.shields.io/badge/💻%20Repository-181717?style=for-the-badge&logo=github" /></a>
+
+<br/>
+
+`Next.js` `React` `Tailwind CSS` `Full-Stack`
+
+</div>
+
+---
+
+## 🌐 More Projects
+
+| Project                      | Description                        | Demo / Store                                                                     | Source                                                                   |
+| ---------------------------- | ---------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 💬 **Golpo Chat**            | Real-time Android chat application | [Live](https://golpochat.vercel.app/)                                            | [GitHub](https://github.com/rameem2003/golpo-chat)                       |
+| 🎓 **Velocity Tech Academy** | Learning Management System         | [Live](https://www.velocitytechacademy.com/)                                     | [GitHub](https://github.com/rameem2003)                                  |
+| 🛍️ **Shari Mohol**           | Ladies fashion e-commerce          | Coming Soon                                                                      | [GitHub](https://github.com/rameem2003/shari-mohol-ecommerce)            |
+| 🎓 **Hello NUBian**          | Student mobile application         | [Play Store](https://play.google.com/store/apps/details?id=com.rol.nubian&hl=en) | [GitHub](https://github.com/rameem2003)                                  |
+| 🏢 **Noyon Puspo Beli**      | Event management platform          | [Live](https://www.noyonpuspobelievent.com/)                                     | [GitHub](https://github.com/rameem2003/noyon-puspo-beli-event-managment) |
+| 🛒 **SM Corporation**        | E-commerce + Admin Panel           | [Live](https://www.mssmcorporation.com/)                                         | [GitHub](https://github.com/rameem2003)                                  |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rameem2003&theme=tokyonight" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rameem2003&theme=tokyonight" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rameem2003&theme=tokyonight" width="45%" />
+
+<br/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://rameem.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mahmood-hassan-rameem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/MHRameem2003"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://fb.com/mahmood.rameem"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.youtube.com/@we.are.republicoflegends2022"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="mailto:rameem2019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:181717&height=120&section=footer" width="100%"/>
+</div>
+
