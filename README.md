@@ -5,9 +5,9 @@
 <!-- ========================================================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:36BCF7&height=220&section=header&text=Mahmood%20Hassan%20Rameem&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20React%20Native&descAlignY=55&descSize=18" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:36BCF7&height=220&section=header&text=Mahmood%20Hassan%20Rameem&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20React%20Native&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=820&lines=Building+production-grade+APIs+%26+real-time+systems;MERN+%7C+Next.js+%7C+React+Native+%7C+AI%2FLLM;Founder+%40+ROL+Studio+Bangladesh" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=820&lines=Building+production-grade+APIs+%26+real-time+systems;MERN+%7C+Next.js+%7C+React+Native+%7C+AI%2FLLM;Founder+%40+ROL+Studio+Bangladesh" /> -->
 
 <br/>
 
@@ -291,6 +291,6 @@ Notices • Assignments • Exam Dates • Sections
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:181717&height=120&section=footer" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:181717&height=120&section=footer" width="100%"/> -->
 </div>
 
